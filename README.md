@@ -1,3 +1,3 @@
 # lecture_2
 test to generate conflict 
-konflikt
+konflikt 2
